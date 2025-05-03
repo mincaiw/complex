@@ -23,3 +23,4 @@ B = Complex(3, 4)
 
 print(A + B)
 print(A - B)
+print(A * B)
